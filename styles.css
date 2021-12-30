@@ -58,6 +58,7 @@ li {
     border: 2px solid grey;
     padding: 5px;
     margin-bottom: 20px;
+    border-radius: 10px;
 }
 
 .colorbox, .fontbox {
@@ -66,6 +67,7 @@ li {
     display: inline-block;
     width: 28%;
     min-height: 65px;
+    min-width: 200px;
 }
 
 .label {
