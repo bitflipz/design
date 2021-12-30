@@ -1,0 +1,127 @@
+/*
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+#AAB8BF
+#D9EFFA
+#FAF7D4
+#AD829B
+#FAC8E5
+
+*/
+
+body {
+    margin: 5% 15%;
+    background-color: whitesmoke;
+}
+
+.headers {
+    font-family: 'Raleway', sans-serif;
+    margin: 15px 5px;
+    letter-spacing: 3px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 38px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.stylebox p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+}
+
+li {
+    font-family: 'Ubuntu', sans-serif;
+    list-style-type: circle;
+}
+
+.stylebox {
+    margin: 40px;
+}
+
+.headers {
+    font-family: 'Raleway', sans-serif;
+    margin: 15px 10px;
+}
+
+.container {
+    border: 2px solid grey;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.colorbox, .fontbox {
+    padding: 10px;
+    margin: 7px;
+    display: inline-block;
+    width: 28%;
+    min-height: 65px;
+}
+
+.label {
+    text-align: center;
+    margin: 12px auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.hex {
+    text-align: center;
+    margin: 12px auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.color1 {
+    background-color: #aab8bf;
+}
+
+.color2 {
+    background-color: #D9EFFA;
+}
+
+.color3 {
+    background-color: #FAF7D4;
+}
+
+.color4 {
+    background-color: #AD829B;
+}
+
+.color5 {
+    background-color: #FAC8E5;
+}
+
+.strong {
+    font-weight: 900;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.title {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.font1 p, .font1 h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.font2 p, .font2 h6 {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 19px;
+}
+
+.font3 p, .font3 h6 {
+    font-family: 'Ubuntu', sans-serif;
+}
